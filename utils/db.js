@@ -5,7 +5,8 @@ class DBClient {
    * Constructs a new instance of the DBClient class.
    * This class represents a client for interacting with a MongoDB database.
    * It connects to the specified database using the provided host, port, and database name.
-   * If these values are not provided, it defaults to using localhost, port 27017, and the database name 'files_manager'.
+   * If these values are not provided, it defaults to using localhost, port 27017,
+   * and the database name 'files_manager'.
    * The connection is established using the provided URL.
    */
   constructor() {
