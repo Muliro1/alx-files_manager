@@ -1,0 +1,23 @@
+{
+  "name": "alx-files_manager",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Muliro1/alx-files_manager.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Muliro1/alx-files_manager/issues"
+  },
+  "homepage": "https://github.com/Muliro1/alx-files_manager#readme",
+  "dependencies": {
+    "express": "^4.19.2",
+    "mocha": "^10.4.0"
+  }
+}
